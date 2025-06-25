@@ -4,7 +4,7 @@ This is the **frontend** of the Finance Tracker application, built using **React
 It allows users to manage personal transactions, visualize monthly and yearly summaries, and track spending in a clear and interactive way.
 
 For the backend (Spring Boot + PostgreSQL), see:  
-[Finance Tracker Backend](https://github.com/alicci/finance-tracker-backend)
+[Finance Tracker Backend](https://github.com/alicci/finance-tracker)
 
 ---
 
